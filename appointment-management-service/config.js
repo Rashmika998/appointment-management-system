@@ -2,6 +2,7 @@
 
 // Datbase configruation
 const dbHost = `${process.env.dbHost}`;
+const dbUser = `${process.env.dbUser}`;
 const dbPassword = `${process.env.dbPassword}`;
 const dbName = `${process.env.dbName}`;
 const dbPort = `${process.env.dbPort}`;
